@@ -48,12 +48,12 @@
     "formation": {
       "web": {
         "quantity": 1,
-        "size": "free"
+        "size": "hobby"
       }
     },
     "addons": [
       {
-        "plan": "heroku-postgresql",
+        "plan": "heroku-postgresql:hobby-basic",
         "options": {
           "version": "13"
         }
